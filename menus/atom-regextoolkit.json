@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-regextoolkit",
+        "command": "atom-regextoolkit:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-regextoolkit",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-regextoolkit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
