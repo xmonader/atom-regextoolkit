@@ -1,10 +1,9 @@
 {
   "name": "atom-regextoolkit",
   "main": "./lib/atom-regextoolkit",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Regextoolkit for Atom text editor.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-regextoolkit:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
