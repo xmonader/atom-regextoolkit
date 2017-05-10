@@ -1,14 +1,14 @@
 {
   "name": "atom-regextoolkit",
   "main": "./lib/atom-regextoolkit",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Regextoolkit for Atom text editor.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-regextoolkit:toggle"
   },
-  "repository": "https://github.com/atom/atom-regextoolkit",
+  "repository": "https://github.com/xmonader/atom-regextoolkit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
